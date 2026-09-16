@@ -1,4 +1,4 @@
-name = "xray-front"
+name = "work-ws-railway"
 main = "cloudflare-worker.js"
 compatibility_date = "2026-01-01"
 
