@@ -1,0 +1,7 @@
+name = "xray-front"
+main = "cloudflare-worker.js"
+compatibility_date = "2026-01-01"
+
+# After first deploy, add a custom domain/route in the Cloudflare dashboard
+# (Workers & Pages -> your worker -> Settings -> Triggers -> Custom Domains)
+# so clients connect to your own domain instead of *.workers.dev.
